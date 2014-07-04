@@ -1,0 +1,11 @@
+<!-- From: file:/C:/Users/Alvaro/Desktop/couchbase-lite-android/CouchbaseLiteProject/CBLiteEktorp/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.couchbase.cblite">
+    <uses-sdk android:minSdkVersion="11" android:targetSdkVersion="19"/>
+
+    <application/>
+
+    <!-- From: file:/C:/Users/Alvaro/Desktop/couchbase-lite-android/CouchbaseLiteProject/CBLiteEktorp/build/exploded-aar/CouchChat/CBLite/unspecified/AndroidManifest.xml -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <!-- From: file:/C:/Users/Alvaro/Desktop/couchbase-lite-android/CouchbaseLiteProject/CBLiteEktorp/src/main/AndroidManifest.xml -->
+    
+
+</manifest>
